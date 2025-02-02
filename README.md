@@ -97,12 +97,12 @@ Note: Environment variables containing sensitive information like API keys, data
 2. Change to the project directory:
 `cd FinanVista`
 3. Install and run client dependencies:
-`cd Client`
-`npm install`
+`cd Client`<br>
+`npm install`<br>
 `npm run dev`
 4. Install and run server dependencies:
-`cd Server`
-`npm install`
+`cd Server`<br>
+`npm install`<br>
 `npm run dev`
 
 5. Open your web browser and visit http://localhost:5173 to see the website in action during development.
