@@ -72,3 +72,39 @@ By combining these technologies, the app not only displays real-time financial m
 
 ### Installation
 
+**Environment Variables Setup**
+The project relies on environment variables for configuration. Follow the instructions below to set up the necessary environment variables:
+
+Client-side Environment Variables
+Create a .env file in the client directory and add the following variable:
+
+`VITE_APP_BASE_URL="http://localhost:5000"`
+This variable defines the base URL for API requests in the client-side code.
+
+Server-side Environment Variables
+Create a .env file in the server directory and add the following variables:
+
+`MONGO_URL="YOUR_MONGODB_URL"`
+`PORT=5000`
+Ensure to replace YOUR_MONGODB_URL with your actual MongoDB URL. The PORT variable specifies the port number for the server.
+
+Note: Environment variables containing sensitive information like API keys, database credentials, or any other secrets should not be committed to version control. Ensure that the .env files are included in your project's .gitignore file to prevent accidental exposure of sensitive data.
+
+### Setup
+
+1. Clone this repository to your local machine:
+`git clone https://github.com/divyalaldinani/FinanVista`
+2. Change to the project directory:
+`cd FinanVista`
+3. Install and run client dependencies:
+`cd Client`
+`npm install`
+`npm run dev`
+4. Install and run server dependencies:
+`cd Server`
+`npm install`
+`npm run dev`
+
+5. Open your web browser and visit http://localhost:5173 to see the website in action during development.
+
+
