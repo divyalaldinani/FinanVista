@@ -8,7 +8,7 @@ A robust finance dashboard application built with the MERN stack and enhanced by
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
-- [Contact](#contact)
+- [Setup](#setup)
 
 ## Introduction
 
