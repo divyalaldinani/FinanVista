@@ -29,16 +29,16 @@ By combining these technologies, the app not only displays real-time financial m
 
 ## Features
 
-- **Interactive Dashboard:**  
+- **📊 Interactive Dashboard:**  
   Provides key financial metrics, trends, and summaries in an intuitive layout.
   
-- **Machine Learning Predictions:**  
+- **🤖 Machine Learning Predictions:**  
   Delivers data-driven forecasts and insights for future financial trends.
   
-- **Responsive UI:**  
+- **📱 Responsive UI:**  
   Ensures an optimal experience on both desktop and mobile devices using Material UI.
   
-- **Robust API:**  
+- **🚀 Robust API:**  
   A RESTful backend powered by Express and Node.js that securely handles data transactions.
 
 ## Technologies Used
