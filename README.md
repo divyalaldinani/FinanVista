@@ -96,11 +96,11 @@ Note: Environment variables containing sensitive information like API keys, data
 `git clone https://github.com/divyalaldinani/FinanVista`
 2. Change to the project directory:
 `cd FinanVista`
-3. Install and run client dependencies:
+3. Install and run client dependencies:<br>
 `cd Client`<br>
 `npm install`<br>
 `npm run dev`
-4. Install and run server dependencies:
+4. Install and run server dependencies:<br>
 `cd Server`<br>
 `npm install`<br>
 `npm run dev`
