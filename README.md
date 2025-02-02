@@ -1,14 +1,20 @@
 # FinanVista
+![image](https://github.com/user-attachments/assets/14ad2448-ff8c-4cbd-a0ae-76880c8d9cf2)
 
 A robust finance dashboard application built with the MERN stack and enhanced by machine learning predictions. This project delivers a modern user experience by integrating powerful technologies on both the frontend and backend.
 
 ## Table of Contents
 
+- [Demo](#demo)
 - [Introduction](#introduction)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
 - [Setup](#setup)
+
+
+## Demo
+You can see a live demo of the portfolio website at https://finan-vista.vercel.app/
 
 ## Introduction
 
